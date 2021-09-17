@@ -7,10 +7,11 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/orajiakuchibuchi/mini-youtube-app-redux.git
-> cd ReduxSimpleStarter
+> cd mini-youtube-app-redux
 
+> visit http://console.developers.google.com/ and get a youtube api key.
+> ensure to enable this key
+> replace the API-KEY value and assign it your google youtube API key
 > npm install
 > npm start
-> create a .env file
-> create a variable API-KEY and assign it your google youtube API key
 ```

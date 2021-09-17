@@ -5,7 +5,7 @@ import YTSearch from 'youtube-api-search';
 import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetails from './components/video_detail';
-const API_KEY = 'AIzaSyAKKloKch7qcwGX7zwt8WV8fBKkw2zBMFM';
+const API_KEY = '';
 
 class App extends Component {
     
@@ -15,7 +15,7 @@ class App extends Component {
             videos: [],
             selectedVideo: null
         };
-        this.videoSearch('chelsea');
+        this.videoSearch('chelsea'); // Ps i am a chelsea fan
     }
 
     videoSearch(term){
