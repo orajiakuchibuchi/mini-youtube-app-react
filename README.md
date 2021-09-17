@@ -7,7 +7,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/orajiakuchibuchi/mini-youtube-app-redux.git
-> cd mini-youtube-app-redux
+> cd mini-youtube-app-react
 
 > visit http://console.developers.google.com/ and get a youtube api key.
 > ensure to enable this key
